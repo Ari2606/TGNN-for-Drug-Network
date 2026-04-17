@@ -56,6 +56,7 @@ For each vendor:
 
 All outputs are saved in `OUT_DIR`:
 
+
 ### 📊 Data
 - `cleaned_agora.csv`
 
@@ -71,6 +72,9 @@ All outputs are saved in `OUT_DIR`:
 ### 🌐 Interactive Visualizations
 - `interactive_network.html`
 - `interactive_globe.html`
+
+- <img width="1468" height="912" alt="image" src="https://github.com/user-attachments/assets/9ad4b428-ae2a-4d4b-9699-750e3690c7d2" />
+
 
 ### 📄 Tables
 - `vulnerability_scores_last_quarter.csv`
